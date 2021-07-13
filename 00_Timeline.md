@@ -1,3 +1,5 @@
+## Defense timeline
+
 * ~2 months before the prospective defense date
   * Book the timeslot with your committee
   * Make an appointment with the Graduate Division for preliminary review (suggestion: on or after the day you send the dissertation draft to the committee; before your defense)
@@ -11,6 +13,8 @@
 
 * 1 day before defense
   * Send a reminder to the committee (and everyone you want)
+
+* Defense
 
 * After defense
   * Collect feedback from the committee
