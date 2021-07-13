@@ -1,5 +1,7 @@
 ## Defense timeline
 
+* Your diploma will be mailed ~2 months after the quarter of your final review ends. You might want to take that into account when you schedule your defense.
+
 * ~2 months before the prospective defense date
   * Book the timeslot with your committee
   * Make an appointment with the Graduate Division for preliminary review (suggestion: on or after the day you send the dissertation draft to the committee; before your defense)
