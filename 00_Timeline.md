@@ -1,5 +1,6 @@
 ## Defense timeline
 > Preparation time of your dissertation highly depends on you and your advisor, ranging from 1 weekend to several months.
+
 > Your diploma will be mailed ~2 months after the quarter of your final review ends. You might want to take that into account when you schedule your defense.
 
 * ~2 months before the prospective defense date
